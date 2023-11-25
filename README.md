@@ -1,4 +1,5 @@
-https://img.shields.io/badge/Website-blue?link=https%3A%2F%2Fwww.walnutai.app
+![Static Badge](https://img.shields.io/badge/Website-blue?link=https%3A%2F%2Fwww.walnutai.app)
+
 
 # DataXchange 🌐
 
